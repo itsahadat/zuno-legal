@@ -1,6 +1,6 @@
 # Zuno: Daily Planner & To Do — Privacy Policy
 
-**Effective date:** 24 November 2026  
+**Effective date:** 25 November 2026  
 **Developer:** BangLabs  
 **Contact:** dev.sahadat@gmail.com
 
@@ -12,7 +12,7 @@ Tasks, notes, reminders, routines, routine history and focus sessions are stored
 If Android backup is turned on for your Google account, Android may include Zuno's data in your own device backup. That backup is controlled by you and Google, not by us.
 
 ## 2. Ads
-The free version of Zuno shows banner ads served by **Google AdMob**. To show and measure ads and to prevent fraud, Google may collect:
+The free version of Zuno shows ads served by **Google AdMob**: banner ads, native ads, and short video ads that play only when you choose to watch one (for example to remove ads for 24 hours or unlock a routine template). To show and measure ads and to prevent fraud, Google may collect:
 - your device's advertising ID,
 - your IP address and the approximate location derived from it,
 - information about ad views and taps, and basic device information.
